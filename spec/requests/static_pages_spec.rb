@@ -24,4 +24,12 @@ describe "Static pages" do
 
     it { should have_title('Contact') }
   end
+
+  describe "Home Portal page" do
+    before { visit portal_path }
+
+    it { should have_title('Home Portal') }
+    it { should have_content('Search') }
+    it { should have_content('Build City') }
+  end
 end

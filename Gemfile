@@ -8,6 +8,7 @@ gem 'rails', '4.0.4'
 # testing out the latest bootstrap
 gem 'bootstrap-sass'
 # gem 'bootstrap-sass', '2.3.2.0'
+gem 'sprockets', '2.11.0'
 
 # Use ActiveModel has_secure_password
 gem 'bcrypt-ruby', '3.1.2'
