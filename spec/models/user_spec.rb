@@ -2,8 +2,10 @@ require 'spec_helper'
 
 describe User do
   
-  before { @user = User.new(name: "Sam", email: "sam@example.com", username: "samdude",
-                              password: "foobar", password_confirmation: "foobar") }
+  # before { @user = User.new(name: "Sam", email: "sam@example.com", username: "samdude",
+  #                             password: "foobar", password_confirmation: "foobar") }
+  let(:user) { FactoryGirl.create(:user) }
+  before { @user = user }
 
   subject { @user }
 
@@ -57,8 +59,8 @@ describe User do
   end
 
   describe "when password is not preset" do
-    before { @user = User.new(name: "Sam", email: "sam@example.com", username: "samdude",
-                              password: " ", password_confirmation: " ") } 
+    let(:user) { FactoryGirl.create(:user) }
+    before { @user.password = @user.password_confirmation = " " }
     it { should_not be_valid }
   end
 

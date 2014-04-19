@@ -1,0 +1,20 @@
+<% provide(:title, @user.username) %>
+<div class="row">
+  <aside class="span4">
+    <section>
+      <!-- Need to change the username to the top bar -->
+      <h1><%= @user.username %></h1>
+    </section>
+    <section>
+      <h4>Search</h4>
+      <input type="text" />
+    </section>
+    <section>
+      <h4>Build new city</h4>
+    </section>
+    <section>
+      <!-- Maybe plurize Cities -->
+      <h4>Cities under your control</h4>
+    </section>
+  </aside>
+</div>
