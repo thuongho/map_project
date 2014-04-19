@@ -41,12 +41,13 @@ describe "User pages" do
         expect { click_button submit }.to change(User, :count).by(1)
       end
 
-      # describe "after saving the user" do
-        # before { click_button submit }
-        # let(:user) { User.find_by(email: 'jdoe@example.com') }
+      describe "after saving the user" do
+        before { click_button submit }
+        let(:user) { User.find_by(email: 'jdoe@example.com') }
+        it { should have_link('Sign out') }
         # it { should have_title(user.username) }
-        # it { should have_selector('div.alert.alert-success', text: "#{user.username}, welcome to Mapper's World!") }
-      # end
+        it { should have_selector('div.alert.alert-success') }
+      end
     end
   end
 

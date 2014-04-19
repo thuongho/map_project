@@ -15,6 +15,7 @@ describe User do
   it { should respond_to(:password_digest) }
   it { should respond_to(:password) }
   it { should respond_to(:password_confirmation) }
+  it { should respond_to(:remember_token) }
   it { should respond_to(:authenticate) }
 
   describe "when email is not present" do
@@ -94,4 +95,9 @@ describe User do
       specify { expect(username_with_invalid_password).to be_false }
     end
   end 
+
+  describe "remember token" do
+    before { @user.save }
+    its(:remember_token) { should_not be_blank }
+  end
 end
