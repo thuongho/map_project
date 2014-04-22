@@ -17,6 +17,7 @@ describe User do
   it { should respond_to(:password_confirmation) }
   it { should respond_to(:remember_token) }
   it { should respond_to(:authenticate) }
+  it { should respond_to(:maps) }
 
   describe "when email is not present" do
     before { @user.email = " " }
@@ -99,5 +100,19 @@ describe User do
   describe "remember token" do
     before { @user.save }
     its(:remember_token) { should_not be_blank }
+  end
+
+  describe "maps association" do
+    before { @user.save }
+    let!(:map) { FactoryGirl.create(:map, user: @user) }
+
+    it "should destroy associated maps" do
+      maps = @user.maps.to_a
+      @user.destroy
+      expect(maps).not_to be_empty
+      maps.each do |map|
+        expect(Map.where(id: map.id)).to be_empty
+      end
+    end
   end
 end

@@ -16,5 +16,13 @@
       <!-- Maybe plurize Cities -->
       <h4>Cities under your control</h4>
     </section>
+    <div class="span8">
+      <% if @user.maps.any? %>
+      <h5>Maps (<%= @user.maps.count %>)</h5>
+      <ol class="microposts">
+        <%= render @maps %>
+      </ol>
+      <% end %>
+    </div>
   </aside>
 </div>

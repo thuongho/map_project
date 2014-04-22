@@ -6,4 +6,9 @@ FactoryGirl.define do
     password "foobar"
     password_confirmation "foobar"
   end
+
+  factory :map do
+    city_name "San Francisco"
+    user
+  end
 end

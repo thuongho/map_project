@@ -79,6 +79,19 @@ describe "Authentication" do
         end
       end
 
+      describe "in the Maps controller" do
+
+        describe "submitting to a create action" do
+          before { post maps_path }
+          specify { expect(response).to redirect_to(signin_path) }
+        end
+
+        describe "submitting to a destroy action" do
+          before { delete map_path(FactoryGirl.create(:map)) }
+          specify { expect(response).to redirect_to(signin_path) }
+        end
+      end
+
       describe "when attempting to visit a protected page" do
         before do
           visit edit_user_path(user)

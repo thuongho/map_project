@@ -53,6 +53,7 @@ describe "User pages" do
 
   describe "Profile page" do
     let(:user) { FactoryGirl.create(:user) }
+    let(:map) { FactoryGirl.create(:map, user: user) }
     before { visit user_path(user)}
 
     it { should have_title(user.username) }
@@ -60,6 +61,11 @@ describe "User pages" do
     it { should have_content("Search") }
     it { should have_content("Build new city") }
     it { should have_content("Cities under your control") }
+
+    describe "maps" do
+      it { should have_content(map.city_name) }
+      it { should have_content(user.maps.count) }
+    end
   end
 
   describe "Edit" do
