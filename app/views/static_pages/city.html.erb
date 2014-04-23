@@ -1,0 +1,22 @@
+<% provide(:title, "City") %>
+<h1>Choose your city</h1>
+
+<div class="field">
+  <div class="span3 offset4">
+    <%= form_for(@map) do |f| %>
+      <%= render 'shared/error_messages', object: f.object %>
+
+      <%= f.label :city_name, "City Name" %>
+      <%= f.text_field :city_name %>
+  </div>
+
+  <br><br><br><br><br>
+  <div id="choose_map">
+    <p>image placeholder</p>
+  </div>
+
+  <div class="choose-btn">
+    <%= f.submit "Choose", class: 'btn btn-large btn-primary' %>
+  </div>
+  <% end %>
+</div>

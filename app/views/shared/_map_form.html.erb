@@ -1,0 +1,7 @@
+<%= form_for(@map) do |f| %>
+  <%= render 'shared/error_messages', object: f.object %>
+  <div class="field">
+    <%= f.text_field :city_name, placeholder: "Give your city a name" %>
+  </div>
+  <%= f.submit "Create", class: 'btn btn-large btn-primary' %>
+<% end %>
