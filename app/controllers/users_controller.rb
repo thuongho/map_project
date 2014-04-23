@@ -4,7 +4,7 @@ class UsersController < ApplicationController
   
   def show
     @user = User.find(params[:id])
-    @maps = @user.maps.build
+    @maps = current_user.maps if signed_in?
   end
 
   def new
