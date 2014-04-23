@@ -1,6 +1,12 @@
 <header class="navbar navbar-fixed-top navbar-inverse">
   <div class="navbar-inner">
     <div class="container">
+      <% if signed_in? %>
+        
+         <!-- @user.username -->
+      <% else %>
+        <%= link_to "MapIt", root_path, id: "logo" %>
+      <% end %>
        <!-- link_to "Placeholder for logo", '#', id: "logo"  -->
       <nav>
         <ul class="nav pull-right">

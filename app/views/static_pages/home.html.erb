@@ -1,22 +1,13 @@
 <% provide(:title, 'Map') %>
-<% if signed_in? %>
-  <div class="row">
-    <aside class="span4">
-      <section>
-        <%= render 'shared/user_info' %>
-      </section>
-      <section>
-        <%= render 'shared/map_form' %>
-      </section>
-    </aside>
-  </div>
-<% else %>
+
 <div class="center hero-unit">
   <h1>MapIt</h1>
 
   <h2>Create your own city!</h2>
-  <%= link_to "Play as Guest", '#', class: 'btn btn-large btn-primary' %>
-  <%= link_to "Log in", signin_path, class: 'btn btn-large btn-primary' %>
-  <%= link_to "Create an account", signup_path %>
+  <ul class="signin-btn">
+    <li><%= link_to "Play as Guest", portal_path, class: 'btn btn-large btn-primary' %></li>
+    <li><%= link_to "Log in", signin_path, class: 'btn btn-large btn-primary' %></li>
+    <li><%= link_to "Create an account", signup_path %></li>
+  </ul>
+
 </div>
-<% end %>

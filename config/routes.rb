@@ -8,6 +8,7 @@ MapProject::Application.routes.draw do
   match '/about', to: 'static_pages#about', via: 'get'
   match '/contact', to: 'static_pages#contact', via: 'get' 
   match '/portal', to: 'static_pages#portal', via: 'get'
+  match '/city', to: 'static_pages#city', via: 'get'
   match '/signup', to: 'users#new', via: 'get'
   match '/signin', to: 'sessions#new', via: 'get'
   match '/signout', to: 'sessions#destroy', via: 'delete'

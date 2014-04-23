@@ -12,10 +12,12 @@
     <section>
       <h4>Build new city</h4>
     </section>
-    <div class="span8">
-      <% if @user.maps.any? %>
+    <% if @user.maps.any? %>
+    <section>
       <h4><%= pluralize(@user.maps.count, "City") %> under your control</h4>
-      <ol class="microposts">
+    </section>
+    <div class="span8">
+      <ol class="maps">
         <%= render @maps %>
       </ol>
       <% end %>
