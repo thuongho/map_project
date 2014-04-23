@@ -4,7 +4,7 @@ class UsersController < ApplicationController
   
   def show
     @user = User.find(params[:id])
-    @maps = @user.maps.to_a
+    @maps = @user.maps
   end
 
   def new
