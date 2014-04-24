@@ -218,6 +218,12 @@ aside {
 
 /* home page */
 
+.content {
+  background: url(sf-aerial-view.jpg) no-repeat center center fixed;
+  border-radius: 5px;
+
+}
+
 .signin-btn {
   // float: right;
   text-align: right;
@@ -233,7 +239,7 @@ aside {
 }
 
 .center {
-  opacity: .8;
+  opacity: .9;
 }
 
 /* city page */
@@ -243,4 +249,23 @@ aside {
 }
 .choose-btn {
   text-align: right;
+}
+
+.item-pix {
+  height: 200px;
+  width: 200px;
+  margin: 0px auto;
+
+  img {
+    height: 100%; 
+    width: 100%; 
+    display: block;
+    border: 1px solid black;
+    border-radius: 2px;
+    box-shadow: 2px 4px 5px #000000;
+  }
+}
+
+span {
+  background-color: red;
 }

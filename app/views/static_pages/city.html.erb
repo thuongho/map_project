@@ -12,6 +12,71 @@
 
   <br><br><br><br><br>
   <div id="choose_map">
+    <div id="myCarousel" class="carousel slide">
+
+      <!-- indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" ></li>
+        <li data-target="#myCarousel" data-slide-to="1" ></li>
+        <li data-target="#myCarousel" data-slide-to="2" ></li>
+      </ol>
+    
+      <!-- define carousel items -->
+      <div class="carousel-inner">
+        
+        <div class="item active">
+          <div class="item-pix">
+            <%= image_tag("SFmap_outline2.jpg", alt: "San Francisco") %>
+          </div>
+
+          <!-- center text in a container tag -->
+          <!-- <div class="container">
+            <div class="carousel-caption">
+              <h1>My Heading Text</h1>
+              <p>Text that will appear under each picture</p>
+            </div>
+          </div> -->
+        </div>
+
+        <div class="item">
+          <div class="item-pix">
+            <%= image_tag("manhattan-outline.jpg", alt: "Manhattan") %>
+          </div>
+
+          <!-- center text in a container tag -->
+         <!--  <div class="container">
+            <div class="carousel-caption">
+              <h1>My Heading Text</h1>
+              <p>Text that will appear under each picture</p>
+            </div>
+          </div> -->
+        </div>
+
+        <div class="item">
+          <div class="item-pix">
+            <%= image_tag("chicago-map-outline.png", alt: "Chicago") %>
+          </div>
+
+          <!-- center text in a container tag -->
+          <!-- <div class="container">
+            <div class="carousel-caption">
+              <h1>My Heading Text</h1>
+              <p>Text that will appear under each picture</p>
+            </div>
+          </div> -->
+        </div>
+
+      </div>
+
+      <!-- controller buttons -->
+      <a href="#myCarousel" class="left carousel-control" data-slide="prev">
+        <span class="glyphicon glyphicon-circle-arrow-left"></span>
+      </a>
+
+      <a href="#myCarousel" class="right carousel-control" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+      </a>
+    </div>
     <p>image placeholder</p>
   </div>
 
