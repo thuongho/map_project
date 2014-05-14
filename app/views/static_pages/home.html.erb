@@ -6,7 +6,7 @@
 
     <h2>Create your own city!</h2>
     <ul class="signin-btn">
-      <li><%= link_to "Play as Guest", portal_path, class: 'btn btn-large btn-primary' %></li>
+      <li><%= link_to "Play as Guest", users_path, method: :post, class: 'btn btn-large btn-primary' %></li>
       <li><%= link_to "Log in", signin_path, class: 'btn btn-large btn-primary' %></li>
       <li><%= link_to "Create an account", signup_path %></li>
     </ul>

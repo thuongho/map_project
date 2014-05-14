@@ -12,10 +12,13 @@ class UsersController < ApplicationController
   end
 
   def create
-    @user = User.new(user_params)
+    # @user = User.new(user_params)
+    @user = params[:user] ? User.new(user_params) : User.new_guest 
+
     if @user.save
+      current_user.move_to(@user) if current_user && current_user.guest?
       sign_in @user
-      flash[:success] = "#{@user.username}, welcome to Mapper's World!"
+      flash[:success] = "#{@user.type_name}, welcome to Mapper's World!"
       redirect_to @user
     else
       render 'new'
