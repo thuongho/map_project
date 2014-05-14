@@ -5,5 +5,8 @@
 <p>Search</p>
 <%= link_to "Browse City", '#' %>
 <br>
-<%= link_to "Build City", city_path, class: 'btn btn-large btn-primary' %>
+<%= link_to "Build City", new_user_map_path(current_user), class: 'btn btn-large btn-primary' %>
+<!--  link_to "Build City", city_path, class: 'btn btn-large btn-primary' %> -->
+
+User <%= @user %>
 

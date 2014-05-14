@@ -27,7 +27,11 @@
                 <% end %>
                 <li class="divider"></li>
                 <li>
+                  <% if current_user.guest? %>
+                  <%= link_to "Sign out", signout_path, method: "delete", data: { confirm: "Signing out without creating account will delete all unsaved cities." } %>
+                  <% else %>
                   <%= link_to "Sign out", signout_path, method: "delete" %>
+                  <% end %>
                 </li>
               </ul>
             </li>

@@ -1,3 +1,4 @@
 <li>
-  <span class="content"><%= map.city_name %></span>
+  <!-- <span class="content"> link_to map.city_name, '#' %></span> -->
+  <%= link_to map.city_name, [@user, map] %>
 </li>

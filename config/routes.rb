@@ -1,7 +1,9 @@
 MapProject::Application.routes.draw do
-  resources :users
+  resources :users do
+    resources :maps
+  end
   resources :sessions, only: [:new, :create, :destroy]
-  resources :maps, only: [:create, :destroy]
+  # resources :maps, only: [:create, :destroy]
   
   root 'static_pages#home'
 
