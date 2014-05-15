@@ -1,0 +1,94 @@
+.flip 
+  {
+    background: #CCCCCC;
+    border:1px solid gray;
+    border-radius: 5px;
+    padding-left: 10px;
+    width: 80px;
+    position: relative;
+    top: 0px;
+  }
+  .icon-holder
+  {
+    border:1px solid gray;
+    border-radius: 5px;
+    // padding-left: 10px;
+    // display: none;
+    position: absolute;
+    margin-left: 0px;
+    top: 150px;
+    left: 5px;
+    width: 250px;
+    height: 200px;
+  }
+
+  /* styling from jquery ui shopping cart demo */
+  h1 { padding: .2em; margin: 0; }
+  #icons 
+  { 
+    float:left; 
+    width: 250px;
+    height: 200px; 
+  }
+  #icons div 
+  {
+    height: 100%;
+  }
+  #canvas  
+  {
+    width: 700px;
+    height: 500px;
+    border: 1px solid black;
+    // margin: 0px auto;
+    margin-left: 20%;
+    overflow: hidden;
+  }
+  #canvas ol { margin: 0; padding: 1em 0 1em 3em; }
+  li { list-style: none;}
+  .canvas-area 
+  {
+    background: image-url("SF_map.svg") no-repeat;
+    width: 2080px;
+    height: 1200px;
+  }
+
+  /* draggable icons */
+  #draggable 
+  { 
+    width: 20px; 
+    height: 20px; 
+    padding: 5px; 
+    float: left; 
+    margin: 0 10px 10px 0; 
+    font-size: .9em; 
+  }
+  .redLand 
+  {
+    background:red;
+    width:20px;
+    height:20px;
+  }
+  .house img 
+  {
+    margin: 0px auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 40px;
+    height: 40px;
+  }
+  .apt img
+  {
+    width: 80px;
+    height: 80px;
+  }
+  .sky img
+  {
+    width: 100px;
+    height: 100px;
+  }
+  .ball img
+  {
+    width: 120px;
+    height: 120px;
+  }

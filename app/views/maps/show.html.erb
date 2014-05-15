@@ -1,28 +1,89 @@
-<% content_for :head, javascript_include_tag(:map_custom) %>
+<% content_for :head, javascript_include_tag(:map_custom, :panzoom) %>
 
 <h1><%= @map.city_name %></h1>
 
-<!-- Canvas for building the city -->
-<h1>Mock view of my city</h1>
-<h3>600 x 600</h3>
-<div id="canvas">
-
-  <div class="ui-widget-content canvas-area">
-
-    <p class="placeholder">Add your items here</p>
-
-    <div id="arrowSvg" class="draggable ui-widget-content arrow">
-      <!-- <img image-url("bow_and_arrow.svg") alt="house" type="image/svg+xml" /> SVG (200px x 200px) -->
-      <%= image_tag("bow_and_arrow.svg", alt: "bow and arrow") %>
+<!-- <div class="flip">
+  <h5>View/Hide</h5>
+</div> -->
+<div class="icon-holder">
+  <div id="icons">
+    <h1 class="ui-widget-header">Icons</h1>  
+    <div id="catalog">
+    <!-- Street icons -->
+      <h2><a href="#">Street</a></h2>
+      <div>
+        <ul>
+          <li id="house">img</li>
+          <li>
+            <div class="street1" style="border:1px solid black;width:20px;height:20px;">1
+            </div>
+          </li>
+          <li>
+            <div class="street2" style="border:1px solid black;width:20px;height:20px;">2
+            </div>
+          </li>
+          <li>
+            <div class="street3" style="border:1px solid black;width:20px;height:20px;">3
+            </div>
+          </li>
+        </ul>
+      </div>
+    <!-- Building icons -->
+      <h2><a href="#">Building</a></h2>
+      <div>
+        <ul>
+          <li>
+            <div class="building1" style="border:1px solid black;width:20px;height:20px;">1
+            </div>
+          </li>
+          <li>
+            <div class="building2" style="border:1px solid black;width:20px;height:20px;">2
+            </div>
+          </li>
+          <li>
+            <div class="building3" style="border:1px solid black;width:20px;height:20px;">3
+            </div>
+          </li>
+          <li>
+            <div class="building4" style="border:1px solid black;width:20px;height:20px;">4
+            </div>
+          </li>
+          <li>
+            <div class="building5" style="border:1px solid black;width:20px;height:20px;">5
+            </div>
+          </li>
+        </ul>
+      </div>
+    <!-- Landmark icons -->
+      <h2><a href="#">Landmark</a></h2>
+      <div>
+        <ul>
+          <li>
+            <div class="redLand" style="background:red;width:20px;height:20px;">ball
+            </div>
+          </li>
+          <li>img</li>
+          <li>img</li>
+          <li>img</li>
+        </ul>
+      </div>
     </div>
-
-    <div id="arrowPng" class="draggable ui-widget-content arrow">
-      <img src="images/arrow.png" alt="house"> PNG (200px x 200px) 
-    </div>
-
-    <div id="building" class="draggable ui-widget-content commercial100">
-      <img src="images/building.png" alt="building" />
-    </div>
-
   </div>
 </div>
+  <!-- Canvas for building the city -->
+  <div id="canvas">
+    <div id="cArea" class="ui-widget-content canvas-area">
+    </div>
+    <!-- end of cArea -->
+  </div>
+  <!-- end of Canvas -->
+
+  </div>
+  <br>
+  <!-- zoom buttons -->
+  <div>
+    <button class="zoom-in">Zoom In</button>
+    <button class="zoom-out">Zoom Out</button>
+    <input type="range" class="zoom-range">
+  </div>
+  <!-- end of zoom buttons -->
