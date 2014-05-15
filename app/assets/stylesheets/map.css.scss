@@ -16,7 +16,7 @@
     // display: none;
     position: absolute;
     margin-left: 0px;
-    top: 150px;
+    top: 120px;
     left: 5px;
     width: 250px;
     height: 200px;
@@ -32,7 +32,7 @@
   }
   #icons div 
   {
-    height: 100%;
+    // height: 100%;
   }
   #canvas  
   {
@@ -96,3 +96,21 @@
     width: 120px;
     height: 120px;
   }
+
+ .bl {
+    width:50px;
+    height:50px;
+    border-radius:4px;
+    display:block;
+    margin:2px;
+    float:left;
+}
+.pink {
+    background-color:#D91C5C;
+}
+.blue {
+    background-color:#00ADEE;
+}
+.coral {
+    background-color:#EE4036;
+}
