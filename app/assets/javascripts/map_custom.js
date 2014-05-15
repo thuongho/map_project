@@ -33,10 +33,10 @@ var moveToFront = function(){
 
 // jQuery script for view/hide instructions
 $(document).ready(function(){
-  $('.flip').click(function(){
-    $('.icon-holder').toggle("slow");
-    // $(this).next().animate({width: 'toggle'});
-  });
+  // $('.flip').click(function(){
+  //   $('.icon-holder').toggle("slow");
+  //   // $(this).next().animate({width: 'toggle'});
+  // });
 
   // Zoom features using panzoom
   $('#cArea').panzoom({
@@ -49,7 +49,7 @@ $(document).ready(function(){
   // toggle panning on and off
   var panIsDisabled = true;
 
-  $('#cArea').dblclick(function(){
+  $('.stop-pan').click(function(){
     alert(panIsDisabled == true ? "Panning is turned off." : "Panning is turned on.");
     if (panIsDisabled == true){
       $('#cArea').panzoom("option", "disablePan", true);
@@ -69,7 +69,7 @@ $(document).ready(function(){
   $('#icons').on("click",".street1", function(){
     divCounter++;
     // alert(divCounter);
-    $("<div class='house' id='street" + divCounter + "' style='width:40px;height:40px;border:1px solid black;position:absolute;top:0;bottom:0;left:0;right:0;margin:auto;'><img src='/images/road1.svg' alt='street1' type='image/svg+xml'/></div>").appendTo('.canvas-area').draggable({ grid: [5,5]});
+    $("<div class='house' id='street" + divCounter + "' style='width:40px;height:40px;border:1px solid black;'><img src='/images/road1.svg' alt='street1' type='image/svg+xml'/></div>").appendTo('.canvas-area').draggable({ grid: [5,5]});
     moveToFront();
   });
 
@@ -77,7 +77,7 @@ $(document).ready(function(){
   $('#icons').on("click",".street2", function(){
     divCounter++;
     // alert(divCounter);
-    $("<div class='house' id='street" + divCounter + "' style='width:40px;height:40px;border:1px solid black;position:absolute;top:0;bottom:0;left:0;right:0;margin:auto;'><img src='/images/road2.svg' alt='street2' type='image/svg+xml'/></div>").appendTo('.canvas-area').draggable({ grid: [5,5]});
+    $("<div class='house' id='street" + divCounter + "' style='width:40px;height:40px;border:1px solid black;'><img src='/images/road2.svg' alt='street2' type='image/svg+xml'/></div>").appendTo('.canvas-area').draggable({ grid: [1,1], stack: ".draggable"});
     moveToFront();
   });
 
@@ -94,7 +94,7 @@ $(document).ready(function(){
   $('#icons').on("click",".building1", function(){
     divCounter++;
     // alert(divCounter);
-    $("<div class='house apt' id='building" + divCounter + "' style='width:80px;height:80px;border:1px solid black;'><img src='images/building_apt.svg' alt='house' type='image/svg+xml'/></div>").appendTo('.canvas-area').draggable({stack: ".draggable"});
+    $("<div class='house apt' id='building" + divCounter + "' style='width:80px;height:80px;border:1px solid black;'><img src='images/building_apt.svg' alt='house' type='image/svg+xml'/></div>").appendTo('.canvas-area').draggable({stack: ".drag"});
     // moveToFront();
   });
 
