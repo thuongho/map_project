@@ -69,7 +69,7 @@ $(document).ready(function(){
   $('#icons').on("click",".street1", function(){
     divCounter++;
     // alert(divCounter);
-    $("<div class='house' id='street" + divCounter + "' style='width:40px;height:40px;border:1px solid black;'><img src='/images/road1.svg' alt='street1' type='image/svg+xml'/></div>").appendTo('.canvas-area').draggable({ grid: [5,5]});
+    $("<div class='house' id='street" + divCounter + "' style='width:40px;height:40px;border:1px solid black;position:absolute;top:0;left:0;right:0;bottom:0;margin:auto;'><img src='/images/road1.svg' alt='street1' type='image/svg+xml'/></div>").appendTo('.canvas-area').draggable({ grid: [5,5]});
     moveToFront();
   });
 
