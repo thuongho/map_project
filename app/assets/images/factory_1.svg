@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="123.046px" height="79.594px" viewBox="0 0 123.046 79.594" enable-background="new 0 0 123.046 79.594"
+	 xml:space="preserve">
+<symbol  id="east_el_roof" viewBox="-36.313 -20.963 72.626 41.927">
+	<polygon fill="#D1D3D4" points="-25.622,-3.988 15.127,20.964 36.313,9.314 -15.924,-20.963 -36.313,-9.816 	"/>
+</symbol>
+<symbol  id="east_el_wall" viewBox="-21.186 -24.242 42.373 48.483">
+	<path fill="#E6E7E8" d="M-21.187-0.435c0,0,42.551,25.493,42.372,24.655s0.001-24.941,0.001-24.941l-42.373-23.521V-0.435z"/>
+</symbol>
+<symbol  id="groove" viewBox="-0.57 -18.203 1.141 36.407">
+	<polygon fill="#808285" points="0.57,-18.195 -0.197,-18.203 -0.57,18.196 0.197,18.204 	"/>
+</symbol>
+<symbol  id="tall_south_wall" viewBox="-10.359 -35.389 20.719 70.776">
+	<polygon fill="#A7A9AC" points="-10.359,35.388 -9.666,-23.537 10.359,-35.389 9.154,23.89 	"/>
+</symbol>
+<symbol  id="west_el_wall" viewBox="-17.364 -21.888 34.728 43.776">
+	<path fill="#A7A9AC" d="M-15.508-3.703c-0.413,0.237-2.215,25.835-1.792,25.59C-16.876,21.643,16.632,3.05,16.632,3.05
+		l0.732-24.938L-15.508-3.703z"/>
+</symbol>
+<symbol  id="window" viewBox="-2.927 -5.067 5.853 10.136">
+	<polygon fill="#A7A9AC" points="-2.927,1.729 2.926,5.068 2.891,-1.675 -2.773,-5.067 	"/>
+	<g id="Layer_21_2_">
+		<polygon fill="#58595B" points="-2.443,1.383 -0.197,2.624 -0.022,-3.01 -2.224,-4.285 		"/>
+		<polygon fill="#58595B" points="0.166,2.961 2.412,4.202 2.587,-1.432 0.386,-2.707 		"/>
+	</g>
+</symbol>
+<g>
+	<polygon id="BLOCK" fill="#6D6E71" points="0,44.075 61.539,8.545 123.046,44.075 61.523,79.594 	"/>
+	<polygon fill="#D1D3D4" points="22.144,28.818 39.141,19.029 63.838,33.936 47.886,43.242 	"/>
+	
+		<use xlink:href="#east_el_wall"  width="42.373" height="48.483" id="XMLID_1_" x="-21.186" y="-24.242" transform="matrix(0.7783 0 0 -0.771 94.6445 43.8169)" overflow="visible"/>
+	
+		<use xlink:href="#east_el_roof"  width="72.626" height="41.927" x="-36.313" y="-20.963" transform="matrix(0.765 0 0 -0.765 83.3545 32.5186)" overflow="visible"/>
+	<polygon fill="#E6E7E8" points="62.819,25.889 78.229,16.48 78.72,62.236 63.838,70.841 	"/>
+	
+		<use xlink:href="#west_el_wall"  width="34.728" height="43.776" x="-17.364" y="-21.888" transform="matrix(0.777 0 0 -0.7716 35.6357 45.5024)" overflow="visible"/>
+	<path fill="#BCBEC0" stroke="#C49A6C" stroke-miterlimit="10" d="M21.712,29.191"/>
+	
+		<use xlink:href="#tall_south_wall"  width="20.719" height="70.776" x="-10.359" y="-35.389" transform="matrix(0.7758 0 0 -0.7594 55.9766 43.9424)" overflow="visible"/>
+	<path fill="#D1D3D4" d="M52.718,2.975c0,0,7.147-6.697,21.061,0.006c0.137,8.074-9.845,8.028-9.845,8.028L52.622,6.657
+		L52.718,2.975z"/>
+	
+		<use xlink:href="#groove"  width="1.141" height="36.407" x="-0.57" y="-18.203" transform="matrix(0.765 0 0 -0.765 55.291 40.4326)" overflow="visible"/>
+	
+		<use xlink:href="#groove"  width="1.141" height="36.407" x="-0.57" y="-18.203" transform="matrix(0.765 0 0 -0.765 51.1289 38.7139)" overflow="visible"/>
+	
+		<use xlink:href="#groove"  width="1.141" height="36.407" x="-0.57" y="-18.203" transform="matrix(0.765 0 0 -0.765 59.1035 41.7578)" overflow="visible"/>
+	
+		<use xlink:href="#groove"  width="1.141" height="36.407" x="-0.57" y="-18.203" transform="matrix(-0.7646 0.0233 -0.0233 -0.7646 71.3955 38.7651)" overflow="visible"/>
+	
+		<use xlink:href="#groove"  width="1.141" height="36.407" x="-0.57" y="-18.203" transform="matrix(-0.7646 0.0233 -0.0233 -0.7646 75.5029 36.9209)" overflow="visible"/>
+	
+		<use xlink:href="#groove"  width="1.141" height="36.407" x="-0.57" y="-18.203" transform="matrix(-0.7646 0.0233 -0.0233 -0.7646 67.624 40.2056)" overflow="visible"/>
+	<polygon fill="#D1D3D4" points="48.164,17.067 62.819,25.862 78.155,16.648 63.159,9.425 	"/>
+	<path fill="#A7A9AC" d="M52.422,17.41l0.277-14.382c0,0,5.527-2.67,10.531,5.378c-0.012,4.415,0.097,15.268,0.097,15.268
+		L52.422,17.41z"/>
+	<path fill="#939598" d="M74.048,17.41L73.77,3.028c0,0-5.526-2.67-10.53,5.378c0.012,4.415-0.097,15.268-0.097,15.268L74.048,17.41
+		z"/>
+	
+		<use xlink:href="#window"  width="5.853" height="10.136" x="-2.927" y="-5.067" transform="matrix(0.765 0 0 -0.765 84.1543 47.0054)" overflow="visible"/>
+	
+		<use xlink:href="#window"  width="5.853" height="10.136" x="-2.927" y="-5.067" transform="matrix(0.765 0 0 -0.765 90.9424 43.1279)" overflow="visible"/>
+	
+		<use xlink:href="#window"  width="5.853" height="10.136" x="-2.927" y="-5.067" transform="matrix(0.765 0 0 -0.765 97.4287 39.6865)" overflow="visible"/>
+	
+		<use xlink:href="#window"  width="5.853" height="10.136" x="-2.927" y="-5.067" transform="matrix(0.765 0 0 -0.765 104.1045 35.915)" overflow="visible"/>
+	
+		<use xlink:href="#window"  width="5.853" height="10.136" x="-2.927" y="-5.067" transform="matrix(0.765 0 0 -0.765 84.6279 53.5303)" overflow="visible"/>
+	
+		<use xlink:href="#window"  width="5.853" height="10.136" x="-2.927" y="-5.067" transform="matrix(0.765 0 0 -0.765 91.417 49.6528)" overflow="visible"/>
+	
+		<use xlink:href="#window"  width="5.853" height="10.136" x="-2.927" y="-5.067" transform="matrix(0.765 0 0 -0.765 97.9023 46.2114)" overflow="visible"/>
+	
+		<use xlink:href="#window"  width="5.853" height="10.136" x="-2.927" y="-5.067" transform="matrix(0.765 0 0 -0.765 104.5781 42.4399)" overflow="visible"/>
+	<polygon fill="#D1D3D4" points="48.109,46.803 43.559,44.382 43.738,49.538 48.146,52.004 	"/>
+	<polygon fill="#58595B" points="47.748,47.079 46.002,46.181 45.996,50.493 47.708,51.418 	"/>
+	<polygon fill="#58595B" points="45.717,45.931 43.971,45.033 43.965,49.345 45.678,50.27 	"/>
+	<polygon fill="#D1D3D4" points="41.21,43.127 36.659,40.707 36.838,45.862 41.246,48.329 	"/>
+	<polygon fill="#58595B" points="40.848,43.404 39.102,42.505 39.096,46.817 40.808,47.743 	"/>
+	<polygon fill="#58595B" points="38.816,42.255 37.071,41.357 37.064,45.669 38.776,46.594 	"/>
+	<polygon fill="#D1D3D4" points="34.625,39.879 30.073,37.458 30.253,42.614 34.66,45.08 	"/>
+	<polygon fill="#58595B" points="34.262,40.156 32.518,39.257 32.511,43.569 34.223,44.495 	"/>
+	<polygon fill="#58595B" points="32.231,39.007 30.486,38.109 30.479,42.421 32.191,43.346 	"/>
+	<polygon fill="#D1D3D4" points="28.606,36.307 24.055,33.886 24.234,39.042 28.643,41.508 	"/>
+	<polygon fill="#58595B" points="28.244,36.583 26.499,35.685 26.492,39.997 28.204,40.922 	"/>
+	<polygon fill="#58595B" points="26.214,35.435 24.469,34.537 24.461,38.849 26.173,39.774 	"/>
+	<polygon fill="#D1D3D4" points="47.828,53.339 43.277,50.918 43.456,56.074 47.864,58.54 	"/>
+	<polygon fill="#58595B" points="47.466,53.615 45.721,52.717 45.714,57.029 47.426,57.954 	"/>
+	<polygon fill="#58595B" points="45.436,52.467 43.69,51.569 43.683,55.881 45.395,56.806 	"/>
+	<polygon fill="#D1D3D4" points="40.928,49.664 36.377,47.243 36.557,52.398 40.964,54.864 	"/>
+	<polygon fill="#58595B" points="40.566,49.94 38.82,49.041 38.814,53.353 40.526,54.279 	"/>
+	<polygon fill="#58595B" points="38.535,48.792 36.79,47.894 36.783,52.206 38.495,53.13 	"/>
+	<polygon fill="#D1D3D4" points="34.343,46.415 29.792,43.995 29.971,49.15 34.379,51.616 	"/>
+	<polygon fill="#58595B" points="33.981,46.691 32.236,45.793 32.229,50.105 33.941,51.031 	"/>
+	<polygon fill="#58595B" points="31.951,45.543 30.205,44.646 30.198,48.958 31.91,49.882 	"/>
+	<polygon fill="#D1D3D4" points="28.324,42.843 23.773,40.422 23.953,45.578 28.36,48.044 	"/>
+	<polygon fill="#58595B" points="27.963,43.119 26.217,42.22 26.211,46.533 27.923,47.458 	"/>
+	<polygon fill="#58595B" points="25.932,41.971 24.186,41.073 24.18,45.385 25.893,46.31 	"/>
+	
+		<use xlink:href="#window"  width="5.853" height="10.136" x="-2.927" y="-5.067" transform="matrix(1.0909 0 0 -1.0909 71.9062 61.7261)" overflow="visible"/>
+</g>
+<polyline fill="#A7A9AC" points="23.586,48.36 22.499,47.673 22.194,28.615 23.586,29.626 23.586,47.651 "/>
+</svg>

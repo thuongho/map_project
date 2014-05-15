@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="153.752px" height="103.408px" viewBox="0 0 153.752 103.408" enable-background="new 0 0 153.752 103.408"
+	 xml:space="preserve">
+<symbol  id="Deleted_Symbol" viewBox="0.038 -27.601 1.458 29.335">
+	<polygon fill="#E6E7E8" points="1.495,-27.588 0.358,-27.601 0.038,1.723 1.174,1.734 	"/>
+</symbol>
+<symbol  id="New_Symbol" viewBox="-2.203 -3.094 4.406 4.855">
+	<path fill="#E6E7E8" d="M2.203-0.666c0-1.341-0.986-2.428-2.203-2.428s-2.203,1.087-2.203,2.428S-1.217,1.762,0,1.762
+		S2.203,0.675,2.203-0.666z"/>
+</symbol>
+<symbol  id="New_Symbol_4" viewBox="-0.73 -15.429 1.461 30.857">
+	<polygon fill="#FFFFFF" points="0.73,-15.429 -0.73,-15.429 -0.73,15.429 0.73,15.429 	"/>
+</symbol>
+<symbol  id="New_Symbol_5" viewBox="-1.543 -2.034 3.086 4.068">
+	<polygon fill="#939598" points="-1.543,-0.284 -1.543,2.034 1.543,0.216 1.543,-2.034 	"/>
+</symbol>
+<symbol  id="oval_dot" viewBox="-1.167 -2.428 2.334 4.855">
+	<path fill="#E6E7E8" d="M1.167,0c0-1.341-0.522-2.428-1.167-2.428c-0.645,0-1.167,1.087-1.167,2.428S-0.644,2.428,0,2.428
+		C0.646,2.428,1.167,1.341,1.167,0z"/>
+</symbol>
+<g id="Grid" display="none">
+	<g display="inline">
+	</g>
+	<g display="inline">
+	</g>
+</g>
+<g id="BLDG">
+	<g id="lt_roof_rectangles">
+	</g>
+	<g>
+		<g>
+			<polygon id="bldg._lot_1_" fill="#A7A9AC" points="108.9,88.643 153.751,62.728 70.446,15.046 25.585,40.541 			"/>
+			<polygon id="short_north_wall_1_" fill="#BCBEC0" points="45.17,22.18 45.17,44.384 70.807,29.583 70.807,7.37 			"/>
+			<polygon id="front_long_wall_1_" fill="#E6E7E8" points="45.17,22.18 109.266,59.188 109.266,81.392 45.17,44.384 			"/>
+			<polygon id="door_recess_shadow_1_" fill="#939598" points="64.398,41.081 64.384,55.867 89.657,69.862 90.342,55.472 			"/>
+			<polygon id="door_walkway_side_pvmnt_1_" fill="#BCBEC0" points="57.989,59.233 70.813,51.844 90.343,62.941 90.025,69.529 
+				83.628,74.036 			"/>
+			<polygon id="back_drop_for_panes_1_" fill="#F1F2F2" points="71.501,52.259 71.793,45.686 90.208,55.775 90.208,63.361 			"/>
+			<g id="sm_panes_row_2_1_">
+				<g id="bottom_row_panes_1_">
+					<g>
+						
+							<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 72.7456 51.8652)" overflow="visible"/>
+						
+							<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 87.0415 60.2993)" overflow="visible"/>
+						
+							<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 89.1255 61.4678)" overflow="visible"/>
+						
+							<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 74.7925 53.0576)" overflow="visible"/>
+						
+							<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 76.8374 54.2427)" overflow="visible"/>
+						
+							<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 78.8862 55.4971)" overflow="visible"/>
+						
+							<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 80.9351 56.7256)" overflow="visible"/>
+						
+							<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 82.98 57.9805)" overflow="visible"/>
+						
+							<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 84.9888 59.1245)" overflow="visible"/>
+					</g>
+					<g>
+						
+							<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 72.8003 50.2808)" overflow="visible"/>
+						
+							<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 87.0952 58.7144)" overflow="visible"/>
+						
+							<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 89.1792 59.8823)" overflow="visible"/>
+						
+							<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 74.8472 51.4727)" overflow="visible"/>
+						
+							<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 76.8921 52.6572)" overflow="visible"/>
+						
+							<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 78.9409 53.9121)" overflow="visible"/>
+						
+							<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 80.9897 55.1406)" overflow="visible"/>
+						
+							<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 83.0347 56.395)" overflow="visible"/>
+						
+							<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 85.0444 57.54)" overflow="visible"/>
+					</g>
+				</g>
+				<g id="top_row_panes_1_">
+					
+						<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 72.9839 47.1338)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 87.2798 55.5669)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 89.3638 56.7358)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 75.0308 48.3257)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 77.0767 49.5107)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 79.1245 50.7651)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 81.1724 51.9937)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 83.2183 53.2485)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 85.2271 54.3926)" overflow="visible"/>
+				</g>
+				<g id="mid_row_panes_1_">
+					
+						<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 72.9282 48.7188)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 87.2251 57.1523)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 89.3081 58.3208)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 74.9761 49.9111)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 77.021 51.0957)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 79.0698 52.3501)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 81.1177 53.5791)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 83.1636 54.8335)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol_5"  width="3.086" height="4.068" x="-1.543" y="-2.034" transform="matrix(0.6168 0 0 -0.6168 85.1724 55.978)" overflow="visible"/>
+				</g>
+			</g>
+			
+				<use xlink:href="#Deleted_Symbol"  width="1.458" height="29.335" id="south_pillar_7_1_" x="0.038" y="-27.601" transform="matrix(0.9037 0 0 -0.6168 35.0854 23.9814)" overflow="visible"/>
+			
+				<use xlink:href="#New_Symbol_4"  width="1.461" height="30.857" id="south_pillar_6_1_" x="-0.73" y="-15.429" transform="matrix(0.6168 0 0 -0.6168 43.4692 37.3735)" overflow="visible"/>
+			
+				<use xlink:href="#New_Symbol_4"  width="1.461" height="30.857" id="south_pillar_5_3_" x="-0.73" y="-15.429" transform="matrix(0.6168 0 0 -0.6168 51.3862 42.2983)" overflow="visible"/>
+			
+				<use xlink:href="#New_Symbol_4"  width="1.461" height="30.857" id="south_pillar_4_7_" x="-0.73" y="-15.429" transform="matrix(0.6168 0 0 -0.6168 58.48 46.0889)" overflow="visible"/>
+			
+				<use xlink:href="#New_Symbol_4"  width="1.461" height="30.857" id="south_pillar_3_1_" x="-0.73" y="-15.429" transform="matrix(0.6168 0 0 -0.6168 93.5972 65.5659)" overflow="visible"/>
+			
+				<use xlink:href="#New_Symbol_4"  width="1.461" height="30.857" id="front_pillar_2_1_" x="-0.73" y="-15.429" transform="matrix(0.6168 0 0 -0.6168 100.5278 69.4717)" overflow="visible"/>
+			
+				<use xlink:href="#New_Symbol_4"  width="1.461" height="30.857" id="front_pillar_1_1_" x="-0.73" y="-15.429" transform="matrix(0.6168 0 0 -0.6168 107.1548 73.8472)" overflow="visible"/>
+			
+				<use xlink:href="#Deleted_Symbol"  width="1.458" height="29.335" id="back_hidden_pillar_1_" x="0.038" y="-27.601" transform="matrix(0.8444 0 0 -0.6168 41.1323 20.1187)" overflow="visible"/>
+			<polygon id="frnt_walway_med_cement_1_" fill="#E6E7E8" points="32.625,73.818 57.989,59.233 83.628,74.036 58.126,88.789 			"/>
+			<polygon id="lft_lawn_cement_1_" fill="#E6E7E8" points="0,55.647 25.585,40.541 57.989,59.233 32.625,73.818 			"/>
+			<polygon id="rt_lawn_cement_1_" fill="#E6E7E8" points="58.126,88.789 83.628,74.036 108.9,88.643 83.931,103.408 			"/>
+			<polygon id="lft_lawn_1_" fill="#74A23C" points="6.808,52.417 19.586,44.835 51.613,63.325 39.029,70.465 			"/>
+			<polygon id="rt_lawn_1_" fill="#74A23C" points="77.077,77.606 102.394,92.489 89.736,100.058 64.524,85.088 			"/>
+			<polygon id="back_long_wall_1_" fill="#E6E7E8" points="70.81,7.374 134.907,44.38 134.907,66.584 70.81,29.578 			"/>
+			<polygon id="short_south_wall_1_" fill="#939598" points="109.266,59.188 109.266,81.392 134.903,66.59 134.903,44.376 			"/>
+			
+				<use xlink:href="#New_Symbol_4"  width="1.461" height="30.857" id="south_pillar_1_1_" x="-0.73" y="-15.429" transform="matrix(0.6168 0 0 -0.6168 114.9175 72.3999)" overflow="visible"/>
+			<path id="outer_roof_lt_cement_2_" fill="#E6E7E8" d="M32.625,22.851L71.636,0c0,0,76.094,45.228,76.088,45.06
+				c-0.005-0.168-38.174,22.204-38.174,22.204L32.625,22.851z"/>
+			<polygon id="inner_roof_dk_cement_1_" fill="#A7A9AC" points="38.712,22.608 70.764,4.101 141.268,45.075 109.222,63.311 			"/>
+			<polygon id="grass_roof_2_" fill="#74A23C" points="45.157,22.469 71.005,8.095 134.893,44.948 109.259,59.485 			"/>
+			<g id="rt_dome_1_">
+				
+					<image overflow="visible" width="80" height="68" id="right_dome-no_wndws_1_" xlink:href="data:image/png;base64,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" transform="matrix(0.24 0 0 0.24 95.3618 33.7896)">
+				</image>
+				<g id="round_windows_1_">
+					
+						<use xlink:href="#New_Symbol"  width="4.406" height="4.855" x="-2.203" y="-3.094" transform="matrix(0.372 0 0 -0.3466 108.73 39.2988)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol"  width="4.406" height="4.855" x="-2.203" y="-3.094" transform="matrix(0.372 0 0 -0.3466 104.855 37.7627)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol"  width="4.406" height="4.855" x="-2.203" y="-3.094" transform="matrix(0.372 0 0 -0.3466 104.855 46.082)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol"  width="4.406" height="4.855" x="-2.203" y="-3.094" transform="matrix(0.372 0 0 -0.3466 100.9897 44.002)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol"  width="4.406" height="4.855" x="-2.203" y="-3.094" transform="matrix(0.372 0 0 -0.3466 100.9897 39.4468)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol"  width="4.406" height="4.855" x="-2.203" y="-3.094" transform="matrix(0.372 0 0 -0.3466 108.7222 44.0015)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol"  width="4.406" height="4.855" x="-2.203" y="-3.094" transform="matrix(0.372 0 0 -0.3466 104.855 41.7236)" overflow="visible"/>
+					
+						<use xlink:href="#oval_dot"  width="2.334" height="4.855" x="-1.167" y="-2.428" transform="matrix(0.372 0 0 -0.3466 113.2192 41.7227)" overflow="visible"/>
+					
+						<use xlink:href="#oval_dot"  width="2.334" height="4.855" x="-1.167" y="-2.428" transform="matrix(0.2896 0.2175 0.2335 -0.2698 112.397 46.0869)" overflow="visible"/>
+					
+						<use xlink:href="#oval_dot"  width="2.334" height="4.855" x="-1.167" y="-2.428" transform="matrix(0.1937 0.2959 0.3176 -0.1805 108.7222 48.1621)" overflow="visible"/>
+					
+						<use xlink:href="#oval_dot"  width="2.334" height="4.855" x="-1.167" y="-2.428" transform="matrix(-0.0023 0.3466 0.372 0.0022 104.855 49.0034)" overflow="visible"/>
+					
+						<use xlink:href="#oval_dot"  width="2.334" height="4.855" x="-1.167" y="-2.428" transform="matrix(0.2291 -0.2731 -0.2932 -0.2134 100.9976 48.2549)" overflow="visible"/>
+					
+						<use xlink:href="#oval_dot"  width="2.334" height="4.855" x="-1.167" y="-2.428" transform="matrix(0.3497 -0.1185 -0.1271 -0.3258 97.7827 45.4746)" overflow="visible"/>
+					
+						<use xlink:href="#oval_dot"  width="2.334" height="4.855" x="-1.167" y="-2.428" transform="matrix(0.372 0 0 -0.3466 96.5112 41.7227)" overflow="visible"/>
+					
+						<use xlink:href="#oval_dot"  width="2.334" height="4.855" x="-1.167" y="-2.428" transform="matrix(0.3271 0.1651 0.1771 -0.3049 97.5103 38.1968)" overflow="visible"/>
+					
+						<use xlink:href="#oval_dot"  width="2.334" height="4.855" x="-1.167" y="-2.428" transform="matrix(0.2119 0.2849 0.3057 -0.1975 100.564 35.8984)" overflow="visible"/>
+					
+						<use xlink:href="#oval_dot"  width="2.334" height="4.855" x="-1.167" y="-2.428" transform="matrix(0.0251 0.3458 0.3712 -0.0234 104.855 34.4619)" overflow="visible"/>
+					
+						<use xlink:href="#oval_dot"  width="2.334" height="4.855" x="-1.167" y="-2.428" transform="matrix(0.1447 -0.3194 -0.3427 -0.1348 108.7222 35.4805)" overflow="visible"/>
+					
+						<use xlink:href="#oval_dot"  width="2.334" height="4.855" x="-1.167" y="-2.428" transform="matrix(0.3303 -0.182 -0.1883 -0.2969 112.3647 37.7593)" overflow="visible"/>
+				</g>
+			</g>
+			<g id="left_dome_2_">
+				
+					<image overflow="visible" width="76" height="65" id="left_dome_3_" xlink:href="data:image/png;base64,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
+7X8CDADszmQWLvYjiAAAAABJRU5ErkJggg==" transform="matrix(0.24 0 0 0.24 66.9634 17.0122)">
+				</image>
+				<g>
+					
+						<use xlink:href="#New_Symbol"  width="4.406" height="4.855" x="-2.203" y="-3.094" transform="matrix(0.3566 0 0 -0.3323 79.4683 22.1162)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol"  width="4.406" height="4.855" x="-2.203" y="-3.094" transform="matrix(0.3566 0 0 -0.3323 75.7534 20.6431)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol"  width="4.406" height="4.855" x="-2.203" y="-3.094" transform="matrix(0.3566 0 0 -0.3323 75.7534 28.6177)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol"  width="4.406" height="4.855" x="-2.203" y="-3.094" transform="matrix(0.3566 0 0 -0.3323 72.0483 26.625)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol"  width="4.406" height="4.855" x="-2.203" y="-3.094" transform="matrix(0.3566 0 0 -0.3323 72.0483 22.2578)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol"  width="4.406" height="4.855" x="-2.203" y="-3.094" transform="matrix(0.3566 0 0 -0.3323 79.4604 26.624)" overflow="visible"/>
+					
+						<use xlink:href="#New_Symbol"  width="4.406" height="4.855" x="-2.203" y="-3.094" transform="matrix(0.3566 0 0 -0.3323 75.7534 24.4404)" overflow="visible"/>
+					
+						<use xlink:href="#oval_dot"  width="2.334" height="4.855" x="-1.167" y="-2.428" transform="matrix(0.3566 0 0 -0.3323 83.771 24.4395)" overflow="visible"/>
+					
+						<use xlink:href="#oval_dot"  width="2.334" height="4.855" x="-1.167" y="-2.428" transform="matrix(0.2777 0.2085 0.2238 -0.2587 82.9819 28.623)" overflow="visible"/>
+					
+						<use xlink:href="#oval_dot"  width="2.334" height="4.855" x="-1.167" y="-2.428" transform="matrix(0.1857 0.2837 0.3045 -0.173 79.4604 30.6118)" overflow="visible"/>
+					
+						<use xlink:href="#oval_dot"  width="2.334" height="4.855" x="-1.167" y="-2.428" transform="matrix(-0.0023 0.3323 0.3566 0.0021 75.7534 31.4194)" overflow="visible"/>
+					
+						<use xlink:href="#oval_dot"  width="2.334" height="4.855" x="-1.167" y="-2.428" transform="matrix(0.2196 -0.2618 -0.281 -0.2046 72.0542 30.7007)" overflow="visible"/>
+					
+						<use xlink:href="#oval_dot"  width="2.334" height="4.855" x="-1.167" y="-2.428" transform="matrix(0.3352 -0.1135 -0.1219 -0.3123 68.9731 28.0361)" overflow="visible"/>
+					
+						<use xlink:href="#oval_dot"  width="2.334" height="4.855" x="-1.167" y="-2.428" transform="matrix(0.3566 0 0 -0.3323 67.7554 24.4395)" overflow="visible"/>
+					
+						<use xlink:href="#oval_dot"  width="2.334" height="4.855" x="-1.167" y="-2.428" transform="matrix(0.3136 0.1582 0.1698 -0.2922 68.7114 21.0596)" overflow="visible"/>
+					
+						<use xlink:href="#oval_dot"  width="2.334" height="4.855" x="-1.167" y="-2.428" transform="matrix(0.2032 0.2731 0.2931 -0.1893 71.6382 18.8569)" overflow="visible"/>
+					
+						<use xlink:href="#oval_dot"  width="2.334" height="4.855" x="-1.167" y="-2.428" transform="matrix(0.0241 0.3315 0.3558 -0.0225 75.7534 17.4795)" overflow="visible"/>
+					
+						<use xlink:href="#oval_dot"  width="2.334" height="4.855" x="-1.167" y="-2.428" transform="matrix(0.1387 -0.3061 -0.3286 -0.1292 79.4595 18.4551)" overflow="visible"/>
+					
+						<use xlink:href="#oval_dot"  width="2.334" height="4.855" x="-1.167" y="-2.428" transform="matrix(0.3167 -0.1744 -0.1805 -0.2846 82.9507 20.6406)" overflow="visible"/>
+				</g>
+			</g>
+			
+				<image overflow="visible" width="44" height="38" id="middle_dome_1_" xlink:href="data:image/png;base64,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" transform="matrix(0.24 0 0 0.24 90.5405 24.0396)">
+			</image>
+			<g>
+				<polygon fill="#E6E7E8" points="77.998,35.274 87.354,29.866 96.71,35.274 87.345,40.674 				"/>
+			</g>
+			<path fill="#BCBEC0" d="M79.73,35.272l7.615-4.391c0,0,7.896,4.352,7.839,4.389c-0.056,0.038-7.727,4.39-7.727,4.39L79.73,35.272
+				z"/>
+			<g>
+				<path fill="#6D6E71" d="M80.855,35.27c0.019-0.019,6.434-3.825,6.434-3.825l0.449,0.225l-6.434,3.864L80.855,35.27z"/>
+				<path fill="#6D6E71" d="M81.699,35.663c0.019-0.019,6.434-3.826,6.434-3.826l0.45,0.226l-6.435,3.863L81.699,35.663z"/>
+				<path fill="#6D6E71" d="M82.431,36.151c0.018-0.019,6.433-3.826,6.433-3.826l0.45,0.225l-6.434,3.864L82.431,36.151z"/>
+				<path fill="#6D6E71" d="M83.181,36.544c0.018-0.018,6.433-3.826,6.433-3.826l0.45,0.226l-6.434,3.863L83.181,36.544z"/>
+				<path fill="#6D6E71" d="M83.931,36.958c0.02-0.019,6.434-3.826,6.434-3.826l0.451,0.225l-6.435,3.864L83.931,36.958z"/>
+				<path fill="#6D6E71" d="M84.681,37.458c0.018-0.02,6.434-3.827,6.434-3.827l0.449,0.225L85.13,37.72L84.681,37.458z"/>
+				<path fill="#6D6E71" d="M85.355,37.917c0.02-0.02,6.434-3.826,6.434-3.826l0.451,0.226l-6.434,3.863L85.355,37.917z"/>
+				<path fill="#6D6E71" d="M86.106,38.326c0.019-0.019,6.434-3.826,6.434-3.826l0.45,0.226l-6.434,3.863L86.106,38.326z"/>
+				<path fill="#6D6E71" d="M86.968,38.785c0.02-0.019,6.434-3.827,6.434-3.827l0.45,0.226l-6.434,3.863L86.968,38.785z"/>
+			</g>
+			<g id="light_rectangles_1_">
+				<path id="north_lt_rect_1_" fill="#E6E7E8" d="M51.691,18.542c0,0,12.716-7.461,12.707-7.466
+					c-0.008-0.004,3.054,1.763,3.054,1.763l-12.743,7.445L51.691,18.542z"/>
+				<path id="south_lt_rect_1_" fill="#E6E7E8" d="M112.797,53.623c0,0,12.716-7.462,12.708-7.466s3.053,1.763,3.053,1.763
+					l-12.743,7.445L112.797,53.623z"/>
+				<path id="walkway_1_" fill="#F1F2F2" d="M39.079,77.606c-0.097-0.056,37.998-21.821,37.998-21.821l12.679,6.937L51.552,85.095
+					L39.079,77.606z"/>
+				<polygon id="frnt_roof_and_walkway_1_" fill="#E6E7E8" points="70.847,37.133 73.755,35.4 92.99,46.534 90.025,48.508 				"/>
+			</g>
+		</g>
+		
+			<use xlink:href="#Deleted_Symbol"  width="1.458" height="29.335" id="south_pillar_4_6_" x="0.038" y="-27.601" transform="matrix(0.8509 0 0 -0.6168 136.1089 51.8306)" overflow="visible"/>
+		
+			<use xlink:href="#Deleted_Symbol"  width="1.458" height="29.335" id="south_pillar_4_5_" x="0.038" y="-27.601" transform="matrix(0.8509 0 0 -0.6168 129.146 55.9038)" overflow="visible"/>
+		
+			<use xlink:href="#Deleted_Symbol"  width="1.458" height="29.335" id="south_pillar_4_4_" x="0.038" y="-27.601" transform="matrix(0.8509 0 0 -0.6168 121.4331 60.877)" overflow="visible"/>
+		
+			<use xlink:href="#Deleted_Symbol"  width="1.458" height="29.335" id="south_pillar_5_2_" x="0.038" y="-27.601" transform="matrix(0.8264 0 0 -0.6168 141.3608 48.5425)" overflow="visible"/>
+	</g>
+</g>
+</svg>

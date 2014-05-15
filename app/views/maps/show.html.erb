@@ -1,1 +1,28 @@
+<% content_for :head, javascript_include_tag(:map_custom) %>
+
 <h1><%= @map.city_name %></h1>
+
+<!-- Canvas for building the city -->
+<h1>Mock view of my city</h1>
+<h3>600 x 600</h3>
+<div id="canvas">
+
+  <div class="ui-widget-content canvas-area">
+
+    <p class="placeholder">Add your items here</p>
+
+    <div id="arrowSvg" class="draggable ui-widget-content arrow">
+      <!-- <img image-url("bow_and_arrow.svg") alt="house" type="image/svg+xml" /> SVG (200px x 200px) -->
+      <%= image_tag("bow_and_arrow.svg", alt: "bow and arrow") %>
+    </div>
+
+    <div id="arrowPng" class="draggable ui-widget-content arrow">
+      <img src="images/arrow.png" alt="house"> PNG (200px x 200px) 
+    </div>
+
+    <div id="building" class="draggable ui-widget-content commercial100">
+      <img src="images/building.png" alt="building" />
+    </div>
+
+  </div>
+</div>
